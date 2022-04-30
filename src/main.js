@@ -25,14 +25,8 @@ firebase.initializeApp({
   storageBucket: "finance-vue-b0dcc.appspot.com",
   messagingSenderId: "70372556860",
   appId: "1:70372556860:web:3c5c437b9e0211d7328339",
-  measurementId: "G-9B4GLF3NHX"
+  measurementId: "G-9B4GLF3NHX",
 });
-
-// new Vue({
-//   router,
-//   store,
-//   render: (h) => h(App),
-// }).$mount("#app");
 
 let app;
 
